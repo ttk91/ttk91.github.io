@@ -1,9 +1,12 @@
-p .text {
-    font-family: 'Ubuntu', sans-serif;
-    text-align: center;
-}
-
 .text {
     font-family: 'Ubuntu', sans-serif;
     text-align: center;
+    color: white;
+    font-size: large;
+}
+a .text{
+    color: white;
+}
+body {
+    background-color: rgb(32, 32, 32);
 }
